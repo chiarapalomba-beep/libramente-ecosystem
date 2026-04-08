@@ -1,0 +1,1 @@
+{"name": "libramente-ecosystem", "version": "1.0.0", "description": "Ecosistema per Libramente", "main": "index.js", "scripts": {"test": "echo 'Error: no test specified' && exit 1"}, "repository": {"type": "git", "url": "https://github.com/chiarapalomba-beep/libramente-ecosystem.git"}, "author": "Chiarapalomba Beep", "license": "MIT"}
